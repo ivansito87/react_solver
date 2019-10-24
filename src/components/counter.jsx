@@ -18,7 +18,7 @@ return counter === 0 ? "Zero" : counter;
 
     
   }
-// Component that renders te fragment
+
     render() { 
         return (
           <React.Fragment>
